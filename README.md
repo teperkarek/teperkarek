@@ -7,9 +7,9 @@
 - Буду рад любому   <a href="https://t.me/nekarek" target="_blank">сотрудничеству</a> и дельному совету!
 
 # - Языки 👅
-- Python
-- JS
-- HTML
+- <a href="https://github.com/python" target="_blank">Python</a>
+- <a href="https://github.com/topics/javascript" target="_blank">JS</a>
+- <a href="https://github.com/topics/html" target="_blank">HTML</a>
 
 
 # - Смотрю в будущее 🔮
