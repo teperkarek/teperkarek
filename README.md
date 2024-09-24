@@ -6,8 +6,6 @@
 - Топлю за OpenSourse программы!
 - Буду рад любому   <a href="https://t.me/nekarek" target="_blank">сотрудничеству</a> и дельному совету!
 
-<a href="https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29" rel="nofollow">Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика</a>
-
 # - Языки 👅
 - Python
 - JS
