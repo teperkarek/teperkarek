@@ -11,11 +11,11 @@
 - HTML
 
 
-# Смотрю в будущее
-Заинтересован в:
-C++
-Python (углубленно)
-Go
+# - Смотрю в будущее
+## Заинтересован в:
+- C++
+- Python (углубленно)
+- Go
 
 <!--
 **teperkarek/teperkarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
