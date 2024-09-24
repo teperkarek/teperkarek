@@ -4,13 +4,12 @@
 - Изучаю js
 - Оцениваю свой труд и желаю выгоды
 - Топлю за OpenSourse программы!
-- Буду рад любому   <a href="https://t.me/nekarek" target="_blank">сотрудничеству</a> и дельному совету!
+- Буду рад любому <a href="https://t.me/nekarek" target="_blank">сотрудничеству</a> и дельному совету!
 
 # - Языки 👅
 - <a href="https://github.com/python" target="_blank">Python</a>
-- <a href="https://github.com/topics/javascript" target="_blank">JS</a>
+- <a href="https://github.com/topics/javascript" target="_blank">JavaScript</a>
 - <a href="https://github.com/topics/html" target="_blank">HTML</a>
-
 
 # - Смотрю в будущее 🔮
 ## - Заинтересован в:
