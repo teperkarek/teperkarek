@@ -4,13 +4,8 @@
 - Изучаю js
 - Оцениваю свой труд и желаю выгоды
 - Топлю за OpenSourse программы!
-- Буду рад любому сотрудничеству и дельному совету!
-  </a>
-  <a href="https://t.me/nekarek" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
+- Буду рад любому   <a href="https://t.me/nekarek" target="_blank">сотрудничеству и дельному совету!
+- 
 # - Языки 👅
 - Python
 - JS
