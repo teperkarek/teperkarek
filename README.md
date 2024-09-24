@@ -1,4 +1,14 @@
-## Hi there 👋
+# Привет
+## Зовут Максим и я являюсь Junior Frontent разработчиком
+
+- изучаю js
+- буду рад рекомендациям
+- топлю за open sourse
+
+# Языки
+- Python
+- JS
+- HTML
 
 <!--
 **teperkarek/teperkarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
