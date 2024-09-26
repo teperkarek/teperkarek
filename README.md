@@ -18,6 +18,12 @@
 - Python (углубленно)
 - Go
 
+# - Также мы вместе с командой ищем кодеров!!!
+- язык - C#
+- опыт - с 1 года до 3
+- особенности - интузиазом и любовь к проекту
+- писать <a href="https://t.me/nekarek">сюда</a>
+
 <!--
 **teperkarek/teperkarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
