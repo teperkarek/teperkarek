@@ -15,12 +15,6 @@
 - C++
 - Python (углубленно)
 - Go
-
-# - Также я вместе с командой ищу кодеров для <a href="https://discord.gg/rZHCkNZFEE" target="_blank">нашего проекта</a>
-- язык - C#
-- опыт - с 1 до 3 лет
-- особенности - обладать энтузиазмом и любовью к проекту
-
 <!--
 **teperkarek/teperkarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
