@@ -2,8 +2,7 @@
 ## - Зовут Максим, Junior Frontent разработчиком
 - Веб разработчик
 - Изучаю js
-- Оцениваю свой труд и желаю выгоды
-- Топлю за OpenSourse программы!
+- Топлю за OpenSourse.
 - Буду рад любому <a href="https://t.me/nekarek" target="_blank">сотрудничеству</a> и дельному совету!
 - А также буду рад <a href="" target="_blank">донату</a> (нету) поддержке <a href="https://discord.gg/rZHCkNZFEE" target="_blank">нашего проекта</a> (пока что тоже)
 
