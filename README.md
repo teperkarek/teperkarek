@@ -13,10 +13,11 @@
 # - Смотрю в будущее 🔮
 ### - Заинтересован в:
 - C++
-- Python (углубленно)
+- Python
 - Go
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxim)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
 <!--
