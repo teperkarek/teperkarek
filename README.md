@@ -1,6 +1,7 @@
 ## - Hi 👋
 ## - Name's Maxim, Junior Front-end Developer
 - Web developer
+- From Russia
 - Studying js
 - I'm in favor of OpenSourse.
 - I will be glad to any cooperation and sound advice!
