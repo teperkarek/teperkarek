@@ -16,6 +16,8 @@
 - Python
 - Go
 
+![](https://komarev.com/ghpvc/?username=your-github-teperkarek)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teperkarek&show_icons=true&theme=transparent)
 
 
