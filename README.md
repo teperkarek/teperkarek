@@ -17,6 +17,8 @@
 - <a href="https://ru.wikipedia.org/wiki/Python" target="_blank">Python</a> (in detail)
 - <a href="https://ru.wikipedia.org/wiki/Go" target="_blank">Go</a>
 
+<a href="https://t.me/teperkarek">Contact`s</a>
+
 ![](https://komarev.com/ghpvc/?username=your-github-teperkarek)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teperkarek&show_icons=true&theme=transparent)
