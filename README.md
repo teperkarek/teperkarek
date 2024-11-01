@@ -1,4 +1,4 @@
-## - Hi 👋
+## - Hi:
 ## - Name's Maxim, Junior Front-end Developer
 - Web developer
 - From Russia
@@ -6,7 +6,7 @@
 - I'm in favor of OpenSourse.
 - I will be glad to any cooperation and sound advice!
 
-# - Languages 👅
+# - Languages:
 - <a href="https://ru.wikipedia.org/wiki/JavaScript" target="_blank">JavaScript</a>
 - <a href="https://ru.wikipedia.org/wiki/Python" target="_blank">Python</a>
 - <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank">HTML</a>
