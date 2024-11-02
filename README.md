@@ -1,7 +1,7 @@
 ## - Hi:
 ## - Name's Maxim, Junior Backend Developer
 - From Russia
-- Studying cpp
+- Studying C++
 - I'm in favor of OpenSourse.
 - I will be glad to any cooperation and sound advice!
 
