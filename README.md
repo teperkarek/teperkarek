@@ -1,6 +1,6 @@
 ## - Hi:
 ## - Maxim. I'm learning C++
-- From Russia
+- I`m From Russia
 - learning C++
 - I'm in favor of OpenSourse.
 - I will be glad to any cooperation and sound advice!
