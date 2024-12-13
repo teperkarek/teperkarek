@@ -13,7 +13,6 @@
 - <a href="https://ru.wikipedia.org/wiki/Python" target="_blank">Python</a> (in detail)
 - <a href="https://ru.wikipedia.org/wiki/Go" target="_blank">Go</a>
 - <a href="https://ru.wikipedia.org/wiki/C" target="_blank">C</a>
-- <a href="https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%81%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D1%80" target="_blank">Assembler</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teperkarek&show_icons=true&theme=transparent)
 
