@@ -2,16 +2,14 @@
 ## Меня зовут Максим, и я изучаю C++/С
 
 ### Языки, которые изучаю:
-- <a href="https://ru.wikipedia.org/wiki/C%2B%2B" target="_blank">C++</a>
-- <a href="https://ru.wikipedia.org/wiki/Python" target="_blank">Python</a>
+- <a href="https://ru.wikipedia.org/wiki/C%2B%2B" target="_blank">**C++**</a>
+- <a href="https://ru.wikipedia.org/wiki/Python" target="_blank">**Python**</a>
 
-
-### Заинтересован в языках:
-- <a href="https://ru.wikipedia.org/wiki/C" target="_blank">C</a> (Первым делом после C++)
-- <a href="https://ru.wikipedia.org/wiki/Python" target="_blank">Python</a> (Пощупать AI)
-- <a href="https://ru.wikipedia.org/wiki/C_Sharp" target="_blank">С#</a> (Пощупать геймдев)
-
-`Edited: В гит до полного изучения ничего постить не буду.`
+### Заинтересован в нескольких языках:
+- <a href="https://ru.wikipedia.org/wiki/C" target="_blank">**C**</a> (Первым делом после C++)
+- <a href="https://ru.wikipedia.org/wiki/Python" target="_blank">**Python**</a> (Можно интегрировать с C++)
+- <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank">**C#**</a> (Опробовать gamedev)
+---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teperkarek&show_icons=true&theme=transparent)
 
